@@ -1,0 +1,14 @@
+{
+  "name": "fetch-instagram-video",
+  "version": "1.0.0",
+  "description": "Fetch Instagram video URL using an API endpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vivek masona",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
